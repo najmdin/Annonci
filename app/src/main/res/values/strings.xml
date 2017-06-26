@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Stage</string>
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_annonce_titre">Annonce titre</string>
+    <string name="hint_annonce_desc">Annonce desc</string>
+    <string name="hint_annonce_cat">Annonce cat</string>
+    <string name="hint_annonce_prix">prix</string>
+    <string name="hint_annonce_type">type</string>
+
+
+    <string name="no_annonce">You have not added any annonce yet</string>
+    <string name="title_section1">Annonces Listes</string>
+    <string name="title_section2">Users Annonces</string>
+    <string name="title_section3">Search</string>
+    <string name="title_section4">Profil</string>
+    <string name="title_section5">deco</string>
+    <string name="search">search</string>
+    <string-array name="ville">
+        <item>Marrakech</item>
+        <item>Casablanca</item>
+        <item>Tanger</item>
+        <item>Tetouan</item>
+        <item>Agadir</item>
+    </string-array>
+    <string-array name="categorie">
+        <item>Motos</item>
+        <item>Voitures</item>
+        <item>Immobiliers</item>
+        <item>Téléphone</item>
+        <item>Vetements</item>
+        <item>Animaux</item>
+        <item>Vélos</item>
+        <item>Instruments de musique</item>
+        <item>Autres</item>
+    </string-array>
+    <string-array name="type">
+        <item>Offre</item>
+        <item>Demande</item>
+    </string-array>
+</resources>

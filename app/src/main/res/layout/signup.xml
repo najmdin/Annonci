@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/layout_padding_top"
+    tools:context=".Sign"
+    xmlns:tools="http://schemas.android.com/tools" >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Insciption"
+        android:textColor="@color/colorAccent"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:textAlignment="center"
+        android:layout_alignBottom="@+id/user_name"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@+id/tv_name" />
+    <EditText
+        android:id="@+id/Name"
+        android:layout_gravity="center"
+        android:hint="Name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User_name"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@+id/C_uname" />
+    <EditText
+        android:id="@+id/user_name"
+        android:hint="User Name"
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@id/C_pass" />
+
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/user_pass"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confir Pass"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@id/C_pass_c" />
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/conf_user_pass"
+        android:hint="conf Password"
+        android:inputType="textPassword"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@id/C_Adr" />
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/address"
+        android:hint="Address"
+        android:inputType="textPostalAddress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ville"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@id/C_Ville" />
+    <Spinner
+        android:layout_gravity="center"
+        android:id="@+id/Ville"
+        android:layout_alignParentRight="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"
+        ></Spinner>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone"
+        android:textColor="#000"
+        android:textSize="@dimen/big_text_size"
+        android:textStyle="bold"
+        android:id="@id/C_phone" />
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/phone"
+        android:hint="Téléphone"
+        android:inputType="phone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="left"/>
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="userReg"
+        android:text="Inscription"
+        android:textColor="@color/deepPurple2"/>
+
+</LinearLayout>

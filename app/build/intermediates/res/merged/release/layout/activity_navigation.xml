@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<LinearLayout android:orientation="vertical" tools:context=".MapsActivity" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <LinearLayout android:orientation="horizontal" android:layout_height="wrap_content" android:layout_width="match_parent" android:weightSum="1" android:layout_gravity="center_horizontal">
+
+        <TextView android:layout_height="wrap_content" android:layout_width="98dp"
+            android:layout_marginLeft="3dp" android:layout_marginTop="10dp" android:id="@+id/diss
+        " android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_alignParentEnd="true" android:layout_weight="0.22"/>
+
+        <TextView android:layout_height="wrap_content" android:layout_width="98dp"
+            android:layout_marginLeft="3dp" android:layout_marginTop="10dp"
+            android:id="@+id/time"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_alignParentEnd="true" android:layout_weight="0.18"/>
+    </LinearLayout>
+    <com.google.android.gms.maps.MapView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout><!-- From: file:/C:/Users/najm/AndroidStudioProjects/Annoncy/app/src/main/res/layout/activity_navigation.xml -->

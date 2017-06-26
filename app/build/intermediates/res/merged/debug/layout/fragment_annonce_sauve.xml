@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#d8d8d8"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#4a9537"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Annoncy"
+            android:id="@+id/textView3"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:id="@+id/imageView"
+            android:src="@drawable/add_list"
+            android:layout_marginLeft="80dp" />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/annonce_sauve"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:dividerHeight="10dp"
+        android:divider="#d1d1d1"/>
+    <TextView
+        android:id="@+id/client_list_empty"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:padding="32dp"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:textSize="50sp"
+        android:textColor="@android:color/darker_gray"
+        android:text="@string/no_annonce" />
+</LinearLayout><!-- From: file:/C:/Users/najm/AndroidStudioProjects/Annoncy/app/src/main/res/layout/fragment_annonce_sauve.xml -->

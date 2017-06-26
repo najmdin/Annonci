@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-c56f5026f03f7763bf5fbf7a3d3b94090397ed98.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-844ded15b491d15f6372709044ad52dc119acaaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa416efe9dd2717f8eb55b1f5d9903bc7f9f663a">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\classes-7eeae15e702563bbe5a9aace19b314b29c6a8fc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-0179382724adeff88a94ed5e793cfbaeade44471.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a764c7aef5be3d7b138eabf0334ccadf889fcbd">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\classes-797832601586d1d9667a467c548fb7248067dc51.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1-258f3857531e47e94020b627d95442a0698bd55c.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-2f602f3eb84431bd0eb289aa5b3180c2f9313f09.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0-825078a478a87060c8b43bcebb68166c446562cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-33556bd099891b5e938fc4c0e1e7cb0617a94510.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-8ebfd85c1de52437d1d3e47b0520421281ddf5c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-c7ac07ad03917e8471eaad43a7cbaa994212ddec.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-eb023f44868ec8960d9b68720afed7028f01ecbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7cc1fbd6049001f7bb694f360cc1aad53d0128b6">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\classes-91d15ec9970c927486adebf6ff7709edbb88c552.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.1\8d47177aa4da0f259fc823a39736bad2f09993d5\hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.1-668900e1c8fe7eb4136bf038f6ba2ffdb05e4b58.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-b840aad92b1da6feddcea773a8e8e141fb11f11e.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-a0d2f47f013ba6d56fe7b9d94f46f1c96e9af372.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-8ccc9f12f799ba078d63ad3e3d51f22122b55692.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-568289884b22ca35d1c18054d38805f7a3ec5a66.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29d14c552f643eae0255ba38f93c0b968fd092c4">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\classes-1ab1030b2d63092c20864d309c321fa2de7778f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1-0df59ba5ad46064e256b38c98c773c838eae9d3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-cbe766002ee700b2ad7af8568f9c38b17d2ee4d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0-50a0084fc2052d3f5024456833a4f352fd6fbd02.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-9066af3e7586926abcb6687eefc83352ca6cc560.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="28db0e59551f4468fd53106e1cb13beaf636007b">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\classes-184929019e24fcd090c9dd3cf9992adf6f78ef00.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-a65d4866533f34a35e1b2cebd7e86bf34f2080e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-5820a6303bc67917f06d29d4f6c9773f17510d13.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-e53c3c3d6723a583f51664a17bec04496e33ea0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\junit\junit-dep\4.10\64417b3bafdecd366afa514bd5beeae6c1f85ece\junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\junit-dep-4.10-83a9554f5b068d625f500d2b650a9dcd816c0170.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-6a152f0b15b4821d8f9669e55f92bda1f4db5523.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0-de11baeb1a44b63bb620024145b5c04384680ad6.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-a1938459a84a934b41d78f4a914cd918a5dc9af7.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-581f5980cbec437d29af6ec036d306d9093b0db0.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-fe03053f3ec826fb1193db4da7271c8bd46b4100.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.1\860340562250678d1a344907ac75754e259cdb14\hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.1-bddf3c2f912162d9f1d79a81c505ec7388838739.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.1\b988c01468e3398d46678a2eb48aeb5bde271e9f\hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.1-8c37563e46bb147b4b984ff14e672240ac52661c.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1-8b61f72a6540022035ce0368cd072e8b42de3874.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-233bc78594895d68733eb18130085d1fdf7ec53f.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2-13f8f1f09cfa2c05471698e3fbc9f6f12e0d2f8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-379fa394923559af4ca5f6522767434518dca54d.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-0ef51ef1db1c35f7bf07452a8b287ce472d7f7c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-ef1a4b3b2f2c7e4b87ef8d924260e1d294133a0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-ee8d1736e05c4ce942ec4a6497905128a72032bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-889ed30933fc76a63368089d2f1e08108236e795.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-7b50c4217e0316bd1917624e34e46af60ca31e9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-623dcb85e0865de8a18c83c763a71ef71158eb62.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-513bd618a1d93dadd6f50b64e37e821f9d384f66.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-b3de94dc241ad400d5df5e08464dbb50b3a3a2fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\najm\AndroidStudioProjects\Annoncy\app\build\intermediates\pre-dexed\release\classes-b2722aecfa826c3b0860097a3a4d3443b613c702.jar" />
+    </item>
+
+</items>

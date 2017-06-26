@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_name" type="id">name</item>
+    <item name="C_uname" type="id">uname</item>
+    <item name="C_pass" type="id">pass</item>
+    <item name="C_pass_c" type="id">Conf_pass</item>
+    <item name="C_Adr" type="id">adresse</item>
+    <item name="C_Ville" type="id">ville</item>
+    <item name="C_phone" type="id">phone</item>
+</resources>
